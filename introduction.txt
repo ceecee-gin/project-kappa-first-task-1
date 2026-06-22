@@ -14,3 +14,6 @@ Logic Gates: The Boolean algebra I study becomes physical hardware. When I wire 
 The ALU: I get to help design the Arithmetic Logic Unit—the "brain" of the chip. This is where abstract binary code turns into actual addition and subtraction.
 
 My Main Goal:I am looking for practical ways to apply diverse mathematical knowledge to solve problems in the current technological world.
+
+
+-seen
